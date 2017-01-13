@@ -19,9 +19,9 @@ For the Banana Pi Pro, the instructions from the sunxi wiki were used
 **Platform BPI-M2U files with kernel version 3.10.65**
 - 20161129: First commit for Volumio 2
 
-** Waiting for more documentation on bpi-m2u, currently initrd does not load **  
+**Waiting for more documentation on bpi-m2u, currently initrd does not load**  
 
-**Platform BPI-PRO files with kernel version 3.4.10**
+**Platform BPI-PRO files with kernel version 3.4.104**
 - 20170113: First commit for Volumio 2, standard linux-sunxi kernel, patched with overlayfs
 
 
