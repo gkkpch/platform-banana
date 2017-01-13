@@ -1,7 +1,8 @@
 # platform-banana-pi
 Platform files for banana-pi devices
 
-BPI-Sinovoip sources: http://github.com/BPI-SINOVOIP/BPI-M2U-bsp
+BPI-Sinovoip sources: http://github.com/BPI-SINOVOIP/BPI-M2U-bsp  
+
 LeMaker Banana Pi Pro sources: http://github.com/linux-sunxi/linux-sunxi
 
 This repo contains all platform-specific files, used by the Volumio Builder to create **banana-pi** images:
